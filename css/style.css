@@ -37,13 +37,13 @@ h1 {
     list-style-image: url("../img/location.png");
 }
 .telephoneIcon {
-    list-style-image: url("././img/mobileicon.png");
+    list-style-image: url("../img/mobileicon.png");
 }
 .emailIcon {
-    list-style-image: url("././img/Email.png");
+    list-style-image: url("../img/Email.png");
 }
 .facebookIcon {
-    list-style-image: url("././img/Facebook.png"); 
+    list-style-image: url("../img/Facebook.png"); 
 }
 .row:after {
     content: "";
