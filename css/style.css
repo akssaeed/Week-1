@@ -26,7 +26,7 @@ h1 {
 }
 .listIcon {
     margin-left: 150px;
-    list-style-image: url("./img/info.png");
+    list-style-image: url("../img/info.png");
 }
 .listInfo {
     font-weight: bold;
